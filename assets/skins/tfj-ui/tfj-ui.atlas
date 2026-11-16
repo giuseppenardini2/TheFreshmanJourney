@@ -1,0 +1,104 @@
+tfj-ui.png
+	size: 2048, 512
+	repeat: none
+checkbutton-down
+	bounds: 1703, 157, 40, 32
+	offsets: 46, 48, 128, 128
+checkbutton-up
+	bounds: 1016, 99, 32, 32
+	offsets: 48, 48, 128, 128
+coursebutton-up
+	bounds: 2, 36, 496, 144
+font-big-export
+	bounds: 1026, 397, 510, 110
+	offsets: 0, 402, 512, 512
+font-export
+	bounds: 513, 215, 511, 57
+	offsets: 0, 454, 512, 512
+font-course
+	bounds: 513, 274, 511, 233
+	offsets: 0, 279, 512, 512
+font-title
+	bounds: 2, 182, 509, 325
+	offsets: 0, 187, 512, 512
+gamebar
+	bounds: 2, 18, 124, 16
+	offsets: 2, 56, 128, 128
+gobackarrow-down
+	bounds: 1053, 109, 128, 104
+gobackarrow-up
+	bounds: 1703, 191, 128, 104
+heartbar
+	bounds: 2, 2, 44, 14
+	offsets: 10, 25, 64, 64
+homebutton-down
+	bounds: 1894, 303, 64, 64
+homebutton-up
+	bounds: 1954, 443, 64, 64
+levelbutton-down
+	bounds: 1443, 137, 128, 128
+levelbutton-up
+	bounds: 1183, 85, 128, 128
+levelcfu
+	bounds: 1276, 222, 24, 9
+	offsets: 20, 28, 64, 64
+levelcompletedbutton-down
+	bounds: 1438, 267, 128, 128
+levelcompletedbutton-up
+	bounds: 1568, 297, 128, 128
+levellockbutton-down
+	bounds: 1698, 297, 128, 128
+levellockbutton-up
+	bounds: 1573, 167, 128, 128
+levelpadlock
+	bounds: 1558, 412, 8, 13
+	offsets: 28, 27, 64, 64
+menubutton-down
+	bounds: 1538, 427, 280, 80
+menubutton-up
+	bounds: 1026, 233, 280, 80
+menubuttonsmall-down
+	bounds: 1313, 95, 132, 40
+menubuttonsmall-up
+	bounds: 1447, 95, 132, 40
+miniBackground
+	bounds: 1828, 369, 100, 96
+pausebutton
+	bounds: 128, 20, 12, 14
+	offsets: 26, 25, 64, 64
+playbutton-down
+	bounds: 1833, 163, 64, 64
+playbutton-up
+	bounds: 958, 25, 64, 64
+profilebutton-down
+	bounds: 1313, 137, 128, 128
+profilebutton-up
+	bounds: 1308, 267, 128, 128
+rectangularbutton-down
+	bounds: 795, 133, 256, 80
+rectangularbutton-up
+	bounds: 500, 51, 256, 80
+redbutton-down
+	bounds: 513, 133, 280, 80
+redbutton-up
+	bounds: 1026, 315, 280, 80
+redbuttonsmall-down
+	bounds: 1820, 467, 132, 40
+redbuttonsmall-up
+	bounds: 758, 49, 132, 40
+resetbutton-down
+	bounds: 1907, 237, 64, 64
+resetbutton-up
+	bounds: 1828, 303, 64, 64
+settingsbutton-up
+	bounds: 1833, 229, 72, 72
+settingsbuttonpause-down
+	bounds: 892, 25, 64, 64
+settingsbuttonpause-up
+	bounds: 1930, 377, 64, 64
+sliderball
+	bounds: 1538, 407, 18, 18
+sliderbar
+	bounds: 1026, 215, 248, 16
+textfield
+	bounds: 758, 91, 256, 40

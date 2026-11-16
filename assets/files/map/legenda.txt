@@ -1,0 +1,25 @@
+LEGENDA
+-Blocchi (1-9):
+    -Nessun blocco=0
+    -Desk=1
+    -Tile=2
+    -Junk=3
+    -Exit=4
+    -Wall=5
+-Character(10-19):
+    -Player=10
+    -Homebody=12
+    -Geek=13
+    -Gamer=14
+    -Hacker=15
+    -Algoritmi=16
+    -Database=17
+-Power up (20-29):
+    -Shield=20
+    -MoreCoffe=21
+    -MoreHearth=22
+    -JunkFood=23
+    -EnergyDrink=24
+    -EnergyBar=25
+    -Pillow=26
+    -BrokenHeart=27

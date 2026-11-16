@@ -1,0 +1,191 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+	font-big: {
+		file: font-big-export.fnt
+	}
+	font-course: {
+		file: font-course.fnt
+	}
+	font-title: {
+		file: font-title.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	black: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	orange: {
+		r: 217
+		g: 140
+		b: 24
+		a: 1
+	}
+	blue: {
+		r: 25
+		g: 58
+		b: 191
+		a: 1
+	}
+}
+
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: menubutton-up
+		down: menubutton-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: checkbutton-up
+		checkboxOff: checkbutton-down
+		font: font
+		fontColor: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		up: menubutton-up
+		down: menubutton-down
+	}
+	settingsarrow: {
+		up: gobackarrow-up
+		down: gobackarrow-down
+	}
+	settingsicon: {
+		up: settingsbutton-up
+		down: settingsbutton-up
+	}
+	reset: {
+		up: resetbutton-up
+		down: resetbutton-down
+	}
+	profile: {
+		up: profilebutton-up
+		down: profilebutton-down
+	}
+	home:{
+		up:homebutton-up
+		down: homebutton-down
+	}
+	pausesetting: {
+		up: settingsbuttonpause-up
+		down: settingsbuttonpause-down
+	}
+	play:{
+		up:playbutton-up
+		down: playbutton-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+	default: {
+		font: font-big
+		up: menubutton-up
+		down: menubutton-down
+	}
+	course: {
+		font: font-course
+		up: coursebutton-up
+		down: coursebutton-up
+	}
+	level: {
+		font: font-big
+		up: levelbutton-up
+		down: levelbutton-down
+	}
+	levellock: {
+		font: font-big
+		up: levellockbutton-up
+		down: levellockbutton-down
+	}
+	levelComplete: {
+		font: font-big
+		up: levelcompletedbutton-up
+		down: levelcompletedbutton-down
+	}
+	rectangularButton: {
+		font: font-big
+		up: rectangularbutton-up
+		down: rectangularbutton-down
+	}
+	roundButton: {
+		font: font-big
+		up: menubutton-up
+		down: menubutton-down
+	}
+	warningButton: {
+		font: font-big
+		up: redbutton-up
+		down: redbutton-down
+	}
+	smallWarningButton: {
+		font: font
+		up: redbuttonsmall-up
+		down: redbuttonsmall-down
+	}
+	smallButton: {
+		font: font
+		up: menubuttonsmall-up
+		down: menubuttonsmall-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+	}
+	big: {
+		font: font-big
+	}
+	black: {
+		font: font
+		fontColor: black
+	}
+	title: {
+		font: font-title
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font-big
+		up: menubutton-up
+		down: menubutton-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: {
+		background: sliderbar
+		knob: sliderball
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		titleFont: font-big
+		titleFontColor: black
+	}
+	dialog: {
+		background: miniBackground
+		titleFont: font-big
+		titleFontColor: black
+		
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: font
+		fontColor: black
+		background: textfield
+	}
+}
+
+}

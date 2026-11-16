@@ -1,0 +1,98 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+	font-big: {
+		file: font-big-export.fnt
+	}
+	font-course: {
+		file: font-course.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	black: {
+		r: 0
+		g: 0
+		b: 0
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	orange: {
+		r: 217
+		g: 140
+		b: 24
+		a: 1
+	}
+	blue: {
+		r: 25
+		g: 58
+		b: 191
+		a: 1
+	}
+}
+
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: menubutton-up
+		down: menubutton-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: checkbutton-up
+		checkboxOff: checkbutton-down
+		font: font
+		fontColor: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		up: menubutton-up
+		down: menubutton-down
+	}
+
+	
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+	default: {
+		font: font-big
+		up: menubutton-up
+		down: menubutton-down
+	}
+	course: {
+		font: font-course
+		up: coursebutton-up
+		down: coursebutton-up
+	}
+	level:{
+		font: font-big
+		up: levelbutton-up
+		down: levelbutton-down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+	}
+	big: {
+		font: font-big
+	}
+	black: {
+		font: font
+		fontColor: black
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font-big
+		up: menubutton-up
+		down: menubutton-down
+	}
+}
+}

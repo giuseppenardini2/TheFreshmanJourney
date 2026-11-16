@@ -1,0 +1,67 @@
+tfj-ui.png
+	size: 2048, 128
+	repeat: none
+checkbutton-down
+	bounds: 1957, 60, 20, 16
+	offsets: 23, 24, 64, 64
+checkbutton-up
+	bounds: 1384, 71, 16, 16
+	offsets: 24, 24, 64, 64
+coursebutton-up
+	bounds: 1535, 54, 248, 72
+	offsets: 4, 92, 256, 256
+font-big-export
+	bounds: 512, 58, 510, 68
+	offsets: 0, 444, 512, 512
+font-export
+	bounds: 1024, 89, 509, 37
+	offsets: 1, 474, 512, 512
+font-course
+	bounds: 2, 51, 508, 75
+	offsets: 0, 437, 512, 512
+gamebar
+	bounds: 1785, 60, 124, 16
+	offsets: 2, 56, 128, 128
+gobackarrow-down
+	bounds: 1350, 63, 32, 24
+	offsets: 17, 20, 64, 64
+gobackarrow-up
+	bounds: 2, 14, 32, 24
+	offsets: 17, 20, 64, 64
+heartbar
+	bounds: 1911, 62, 44, 14
+	offsets: 10, 25, 64, 64
+levelbutton-down
+	bounds: 1284, 23, 64, 64
+levelbutton-up
+	bounds: 1218, 23, 64, 64
+levelcfu
+	bounds: 56, 40, 24, 9
+	offsets: 20, 28, 64, 64
+levellessoncomplete
+	bounds: 2, 40, 52, 9
+	offsets: 6, 28, 64, 64
+levelpadlock
+	bounds: 1350, 36, 8, 13
+	offsets: 28, 27, 64, 64
+menubutton-down
+	bounds: 1785, 78, 192, 48
+menubutton-up
+	bounds: 1024, 39, 192, 48
+pausebutton
+	bounds: 36, 24, 12, 14
+	offsets: 26, 25, 64, 64
+profilebutton-up
+	bounds: 1979, 62, 64, 64
+rectangularbutton-down
+	bounds: 1350, 51, 32, 10
+	offsets: 16, 27, 64, 64
+rectangularbutton-up
+	bounds: 2, 2, 32, 10
+	offsets: 16, 27, 64, 64
+sliderball
+	bounds: 82, 43, 6, 6
+	offsets: 29, 29, 64, 64
+sliderbar
+	bounds: 512, 52, 50, 4
+	offsets: 7, 30, 64, 64
